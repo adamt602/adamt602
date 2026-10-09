@@ -1,16 +1,19 @@
-## Hi there 👋
+# **👋 Hi, I'm Adam Potter**
 
-<!--
-**adamt602/adamt602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UC San Diego who makes businesses more efficient. I take applications from the first conversation with a client to a polished product, then keep improving it as their feedback comes in.
 
-Here are some ideas to get you started:
+## **🚀 What I Build**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Workflow automation** — replacing manual processes like payroll and timesheets with software that runs itself
+- **Full stack web apps** — complete websites and applications, front end to back end
+- **Whatever the client needs** — if it solves the problem, I figure out how to build it
+
+## **🛠️ Tools**
+
+Python · JavaScript · Java · SQL · HTML/CSS · Spring Boot · Docker · Linux
+
+## **📫 Get In Touch**
+
+Open to full-time roles and freelance projects.
+
+[Email](mailto:a1potter@ucsd.edu) · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [Portfolio](https://yourdomain.com)
